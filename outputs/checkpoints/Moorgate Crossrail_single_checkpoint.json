@@ -1,0 +1,112 @@
+[
+    {
+        "Project Stage": "Operation",
+        "Impact (1-10)": "1",
+        "Risk ID": "R1",
+        "Project Category": "Planning",
+        "Risk Priority (low, med, high)": "Low",
+        "Risk Owner": "Project Manager",
+        "Likelihood (1-10)": "3",
+        "Risk Description": "Opening of the Moorgate Crossrail station is delayed further.",
+        "Mitigating Action": "Regular engagement with Crossrail from now to 2020/2021 to allow for alternative arrangements should there be a delay."
+    },
+    {
+        "Risk Owner": "Project Manager",
+        "Risk ID": "R2",
+        "Likelihood (1-10)": "3",
+        "Project Category": "Procurement",
+        "Project Stage": "Construction",
+        "Risk Priority (low, med, high)": "Low",
+        "Impact (1-10)": "3",
+        "Risk Description": "The Riney highways contract is due to expire in the summer of 2022. Any slippage in starting the construction programme may mean we have to consider a new Principal Contractor for the later stages of delivery.",
+        "Mitigating Action": "Discussions to take place internally should this risk look more probable on how work would be transferred to a new contractor."
+    },
+    {
+        "Project Stage": "Construction",
+        "Risk Priority (low, med, high)": "Med",
+        "Risk ID": "R3",
+        "Impact (1-10)": "7",
+        "Risk Owner": "Project Manager",
+        "Likelihood (1-10)": "5",
+        "Project Category": "Planning",
+        "Mitigating Action": "Regular engagement with developers from now until completion of the developments to allow for alternative arrangements and early notification of any delays.",
+        "Risk Description": "Delays to the four developments surrounding the Moorgate Crossrail station delay the final delivery phases of the MCSL project."
+    },
+    {
+        "Risk ID": "R4",
+        "Project Stage": "Construction",
+        "Risk Priority (low, med, high)": "Med",
+        "Project Category": "Infrastructure",
+        "Mitigating Action": "Set expectations early regarding major physical constraints and work closely with stakeholders to identify design solutions that minimize extensive physical changes.",
+        "Impact (1-10)": "8",
+        "Risk Owner": "Project Manager",
+        "Risk Description": "Infrastructure and utilities difficulties at the Moorgate junction with London Wall and Ropermaker Street make it difficult or too expensive to design and transform the space and enhance safety.",
+        "Likelihood (1-10)": "4"
+    },
+    {
+        "Risk Priority (low, med, high)": "Med",
+        "Likelihood (1-10)": "5",
+        "Impact (1-10)": "7",
+        "Project Category": "Planning",
+        "Project Stage": "Pre-construction",
+        "Risk Owner": "Project Manager",
+        "Risk ID": "R5",
+        "Risk Description": "Key stakeholder(s) do not endorse design options",
+        "Mitigating Action": "Ensure that Stakeholder Working Group is suitably engaged and involved in design option reviews."
+    },
+    {
+        "Impact (1-10)": "7",
+        "Risk Priority (low, med, high)": "Med",
+        "Likelihood (1-10)": "5",
+        "Project Category": "Planning",
+        "Project Stage": "Pre-construction",
+        "Risk Owner": "Project Manager",
+        "Risk ID": "R6",
+        "Mitigating Action": "Work with internal stakeholders to minimize any impacts should changes arise.",
+        "Risk Description": "Delays/changes to dependency projects, such as Beech Street and St. Paul's Gyratory."
+    },
+    {
+        "Project Stage": "Pre-construction",
+        "Likelihood (1-10)": "3",
+        "Risk Priority (low, med, high)": "Low",
+        "Risk Owner": "Project Manager",
+        "Project Category": "Stakeholder Management",
+        "Impact (1-10)": "7",
+        "Risk ID": "R7",
+        "Risk Description": "Breakdown in engagement with key stakeholders, such as Islington Council.",
+        "Mitigating Action": "Ensure coherent communications with stakeholders at strategic points throughout the project, particularly regarding proposed boundary solutions."
+    },
+    {
+        "Risk Priority (low, med, high)": "High",
+        "Impact (1-10)": "8",
+        "Project Stage": "Pre-construction",
+        "Likelihood (1-10)": "8",
+        "Risk ID": "R8",
+        "Risk Owner": "Project Manager",
+        "Project Category": "Planning",
+        "Risk Description": "TfL restructure may mean that no dedicated scheme sponsor / resource can be allocated to progress any required TfL approvals.",
+        "Mitigating Action": "Officers will seek to establish resources as early as possible and keep close contact to understand the extent of the restructure, seeking reassurance of resource if needed."
+    },
+    {
+        "Risk Priority (low, med, high)": "Low",
+        "Risk Owner": "Unknown",
+        "Likelihood (1-10)": "3",
+        "Risk ID": "R9",
+        "Project Category": "Regulations",
+        "Impact (1-10)": "7",
+        "Project Stage": "Pre-construction",
+        "Risk Description": "There is a potential that the proposed scheme could impact negatively on the protected characteristics under the Equalities Act, 2010.",
+        "Mitigating Action": "Meetings with representative groups will be conducted regularly to design out issues of concern, and an Equalities Act plan will be prepared."
+    },
+    {
+        "Risk ID": "R10",
+        "Impact (1-10)": "7",
+        "Likelihood (1-10)": "5",
+        "Risk Priority (low, med, high)": "Med",
+        "Project Stage": "Pre-construction",
+        "Risk Owner": "Project Manager",
+        "Project Category": "Planning",
+        "Mitigating Action": "Seek to ensure that an appropriate level of resilience is allowed for when designing Moorgate junctions at London Wall and Ropemaker Street.",
+        "Risk Description": "Requirement to keep the ability for resilience/flexibility through the area in traffic terms restricts the options that can be developed."
+    }
+]

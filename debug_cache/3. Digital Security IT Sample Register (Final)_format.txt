@@ -1,0 +1,59 @@
+--- [Risk Item 1] ---
+Date Added: [NO DATA PPROVIDED]
+Number: ICT-001
+Risk Description: Identity and Access Management (IAM) systems compromised
+
+Systems are susceptible to intrusion from external sources due to web applications supported by out of date operating systems
+Project Stage: Operations
+Project Category: Cybersecurity
+Risk Owner: Infrastructure Manager
+Likelihood (1-10): 3
+Impact (1-10): 7
+Risk Priority (low, med, high): High
+Mitigating Action: Implement automated IAM systems and Multiform Authentication where required
+
+Complete Update of new Application Architecture.
+
+Data encryption at rest and in transit implemented for all systems.
+
+ISO 27001 based Framework and associated relevant controls implemented.
+
+--- [Risk Item 2] ---
+Date Added: [NO DATA PPROVIDED]
+Number: ICT-002
+Risk Description: Backup and recovery services are not documented and untested.
+
+Critical Systems are supported by out of date infrastructure and operating systems, resulting in database corruptions
+Project Stage: Operations
+Project Category: Infrastructure
+Risk Owner: Infrastructure Manager
+Likelihood (1-10): 9
+Impact (1-10): 7
+Risk Priority (low, med, high): Med
+Mitigating Action: Implement automated IAM systems and Multiform Authentication where required
+
+Complete Update of new Application Architecture.
+
+Data encryption at rest and in transit implemented for all systems.
+
+ISO 27001 based Framework and associated relevant controls implemented.
+
+--- [Risk Item 3] ---
+Date Added: [NO DATA PPROVIDED]
+Number: ICT-003
+Risk Description: Critical Systems are supported by out of date infrastructure and operating systems, resulting in numerous outages and untreatable cyber security intrusions.
+
+Current infrastructure is not architected for high availability.
+
+Lack of Disaster Recovery facilities that will meet  Recovery Time and Point Objective requirements
+Project Stage: Operations
+Project Category: Infrastructure
+Risk Owner: Infrastructure Manager
+Likelihood (1-10): 10
+Impact (1-10): 7
+Risk Priority (low, med, high): High
+Mitigating Action: Document and Test Backup and Recovery services.
+
+Migrate systems to new Infrastructure.
+
+ISO 27001 based Framework and associated relevant controls implemented.

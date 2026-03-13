@@ -1,0 +1,857 @@
+--- [Risk Item 1] ---
+Kolom_0: Revision Date
+RBS: RBS Level 1
+RBS: RBS Level 2
+RBS: Risk Name
+RBS: TRL
+RBS: TPL
+Technology Life Phase: [NO DATA PPROVIDED]
+Risk Owner: [NO DATA PPROVIDED]
+Baseline Risk (before response): + -
+Baseline Risk (before response): TYP
+Baseline Risk (before response): SEV
+Baseline Risk (before response): FRQ
+Baseline Risk (before response): RPN
+Baseline Risk (before response): Description (with assumptions)
+Risk Response: Strategy
+Risk Response: Description (with assumptions); incude Timing and Triggers
+Risk Response: Response Timing
+Residual Risk (after response): SEV
+Residual Risk (after response): FRQ
+Residual Risk (after response): RPN
+Residual Risk (after response): Description (with assumptions)
+Residual Risk (after response): Secondary Risks Resulting From Risk Response
+Residual Risk (after response): Recommendations & Action Items
+Contingency Plan (as if the risk has occurred): [NO DATA PPROVIDED]
+
+--- [Risk Item 2] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: External
+RBS: 4.6 Regulatory
+RBS: task 2.2 Smolt probability of encounter model - data sharing
+RBS: 7
+RBS: 7
+Technology Life Phase: [NO DATA PPROVIDED]
+Risk Owner: N. Johnson (environmental)
+Baseline Risk (before response): -
+Baseline Risk (before response): E
+Baseline Risk (before response): 2
+Baseline Risk (before response): 4
+Baseline Risk (before response): 8
+Baseline Risk (before response): Data sharing from BBSRI at risk
+Risk Response: mitigate
+Risk Response: facilitate conversations with Umaine on data sharing
+Risk Response: now
+Residual Risk (after response): 1
+Residual Risk (after response): 3
+Residual Risk (after response): 3
+Residual Risk (after response): If data is not shared move on to next step of conceptual monitoring plan development
+Residual Risk (after response): [NO DATA PPROVIDED]
+Residual Risk (after response): N. Johnson to continue to faciliate conversations between LGL BBSRI and Umaine re: data sharing
+Contingency Plan (as if the risk has occurred): continue environmental monitoring plan development without probability of encounter model
+
+--- [Risk Item 3] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: External
+RBS: 4.9 External stakeholder
+RBS: Task 5 Ice data collected
+RBS: 7
+RBS: 7
+Technology Life Phase: [NO DATA PPROVIDED]
+Risk Owner: J. Kasper (UAA lead)
+Baseline Risk (before response): -
+Baseline Risk (before response): E
+Baseline Risk (before response): 3
+Baseline Risk (before response): 3
+Baseline Risk (before response): [NO DATA PPROVIDED]
+Baseline Risk (before response): Ice data collection unsuccessful
+Risk Response: mitigate
+Risk Response: real time data collection implemented
+Risk Response: now
+Residual Risk (after response): 2
+Residual Risk (after response): 1
+Residual Risk (after response): 2
+Residual Risk (after response): If real time data collection is not successful equipment retrieved and redeployed in May 2017
+Residual Risk (after response): Increased complexity
+Residual Risk (after response): UAF to take lead on techical side, M. Worthington to continue to manage this effort
+Contingency Plan (as if the risk has occurred): Redesign Ice study equipment for oper water testing, evaluate needs for ice data for component validation
+
+--- [Risk Item 4] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: External
+RBS: 4.6 Regulatory
+RBS: Permitting/Licensing complete for in water testing
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: N. Johnson (environmental)
+Baseline Risk (before response): -
+Baseline Risk (before response): R
+Baseline Risk (before response): 4
+Baseline Risk (before response): 4
+Baseline Risk (before response): 16
+Baseline Risk (before response): Appropriate permits and licenses procured in time for open water testing
+Risk Response: avoid
+Risk Response: FERC Final license application submittal scheudled for 12/17
+Risk Response: now
+Residual Risk (after response): 4
+Residual Risk (after response): 3
+Residual Risk (after response): 12
+Residual Risk (after response): FERC License not granted in time
+Residual Risk (after response): Schedule Slip budget creep
+Residual Risk (after response): Initiate communication with Regulatory agencies and FERC to scope FERC License.  Resource appropriatley for completion by 12/17, respond to Additional Information Requests promptly  after submission
+Contingency Plan (as if the risk has occurred): Consider operating under Verdant Exemption for first year of operation
+
+--- [Risk Item 5] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Technical
+RBS: 1.5 Technology
+RBS: Generator Final Design
+RBS: 7
+RBS: 7
+Technology Life Phase: Design
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): P
+Baseline Risk (before response): 3
+Baseline Risk (before response): 4
+Baseline Risk (before response): 12
+Baseline Risk (before response): Wet Gap Generator design not yet complete
+Risk Response: mitigate
+Risk Response: Design reviews and component validation testing
+Risk Response: before design finalized
+Residual Risk (after response): 3
+Residual Risk (after response): 2
+Residual Risk (after response): [NO DATA PPROVIDED]
+Residual Risk (after response): manufactured product is stil out of specificaiton
+Residual Risk (after response): increased cost schedule slip
+Residual Risk (after response): Work closeley with Generator vendor to develop clear specification and ensure genertor design meets this specification
+Contingency Plan (as if the risk has occurred): Refurbish and reuse exisitng Generator
+
+--- [Risk Item 6] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Commercial
+RBS: 3.3 Suppliers and vendors
+RBS: Generator Procurement
+RBS: 7
+RBS: 7
+Technology Life Phase: Assembly and commissioning
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): T
+Baseline Risk (before response): 3
+Baseline Risk (before response): 4
+Baseline Risk (before response): 12
+Baseline Risk (before response): Timing of generator procurement from IKM could be tight for schedule
+Risk Response: avoid
+Risk Response: Ensure Generator delivery by 2/2018 to allow adequate time for testing using project development plan with regular status reports
+Risk Response: before manufacturing
+Residual Risk (after response): 3
+Residual Risk (after response): 3
+Residual Risk (after response): 9
+Residual Risk (after response): Generator has manufacturing or integration issues that need resolution in limited time frame
+Residual Risk (after response): increased effort and cost
+Residual Risk (after response): Continue Communication with IKM and ORPC Ireland to ensure timely procurement
+Contingency Plan (as if the risk has occurred): Refurbish and reuse exisitng Generator
+
+--- [Risk Item 7] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Commercial
+RBS: 3.3 Suppliers and vendors
+RBS: Buoyancy System Procurement
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): T
+Baseline Risk (before response): 2
+Baseline Risk (before response): 2
+Baseline Risk (before response): 4
+Baseline Risk (before response): components are not available
+Risk Response: avoid
+Risk Response: Compile BOM and ascertain component lead times from vendors in advance of PO issue
+Risk Response: before PO issued
+Residual Risk (after response): 3
+Residual Risk (after response): 1
+Residual Risk (after response): 3
+Residual Risk (after response): Unexepcted component shortage
+Residual Risk (after response): [NO DATA PPROVIDED]
+Residual Risk (after response): USE COTS components
+Contingency Plan (as if the risk has occurred): delay buoyancy system validation tests
+
+--- [Risk Item 8] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Commercial
+RBS: 3.3 Suppliers and vendors
+RBS: Structural Assembly Procurement
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): T
+Baseline Risk (before response): 3
+Baseline Risk (before response): 3
+Baseline Risk (before response): 9
+Baseline Risk (before response): Fabricated components have significant lead times
+Risk Response: mitigate
+Risk Response: Frequent vendor communication , issue PO with room for schedule creep, Rapid change order resolution, contractual penalties for schedule slip
+Risk Response: before PO issued
+Residual Risk (after response): 3
+Residual Risk (after response): 2
+Residual Risk (after response): 6
+Residual Risk (after response): Unexpected fabrication delays
+Residual Risk (after response): Increased cost and effort
+Residual Risk (after response): Freqent vendor communications, contract includes penalties for late delivery
+Contingency Plan (as if the risk has occurred): Delay full system validation  tests
+
+--- [Risk Item 9] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Commercial
+RBS: 3.3 Suppliers and vendors
+RBS: Turbine Procuement
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): T
+Baseline Risk (before response): 3
+Baseline Risk (before response): 4
+Baseline Risk (before response): 12
+Baseline Risk (before response): Fabricated components have significant lead times
+Risk Response: mitigate
+Risk Response: Frequent vendor communication , issue PO with room for schedule creep, Rapid change order resolution, contractual penalties for schedule slip
+Risk Response: before PO issued
+Residual Risk (after response): 3
+Residual Risk (after response): 2
+Residual Risk (after response): 6
+Residual Risk (after response): Unexpected fabrication delays
+Residual Risk (after response): Increased cost and effort
+Residual Risk (after response): Freqent vendor communications, contract includes penalties for late delivery
+Contingency Plan (as if the risk has occurred): Delay full system validation  tests
+
+--- [Risk Item 10] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Commercial
+RBS: 3.3 Suppliers and vendors
+RBS: Power Electronics Procurement
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: M. Worthington (Project Management)
+Baseline Risk (before response): -
+Baseline Risk (before response): T
+Baseline Risk (before response): 3
+Baseline Risk (before response): 4
+Baseline Risk (before response): 12
+Baseline Risk (before response): Singel source vendor for some components that require design completion and fabrication
+Risk Response: mitigate
+Risk Response: Frequent vendor communication , issue PO with room for schedule creep, Rapid change order resolution, contractual penalties for schedule slip
+Risk Response: now
+Residual Risk (after response): 3
+Residual Risk (after response): 3
+Residual Risk (after response): 9
+Residual Risk (after response): Unexpected design/fabrication FAT delays
+Residual Risk (after response): Increased cost and effort
+Residual Risk (after response): Freqent vendor communications, contract includes penalties for late delivery
+Contingency Plan (as if the risk has occurred): Delay laboratory validation
+
+--- [Risk Item 11] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Commercial
+RBS: 3.3 Suppliers and vendors
+RBS: SCADA Procurement
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): T
+Baseline Risk (before response): 3
+Baseline Risk (before response): 4
+Baseline Risk (before response): 12
+Baseline Risk (before response): components are not available, integration of components and software is delayed
+Risk Response: avoid
+Risk Response: Compile BOM and ascertain component lead times from vendors in advance of PO issue
+Risk Response: before PO issued
+Residual Risk (after response): 3
+Residual Risk (after response): 3
+Residual Risk (after response): 9
+Residual Risk (after response): Unexepcted component shortage, personel shortage for SCADA development
+Residual Risk (after response): [NO DATA PPROVIDED]
+Residual Risk (after response): USE COTS components, Start ACADA development early
+Contingency Plan (as if the risk has occurred): delay SCADA system validation tests
+
+--- [Risk Item 12] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Commercial
+RBS: 3.3 Suppliers and vendors
+RBS: power and Data cable procurement
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: M. Worthington (Project Management)
+Baseline Risk (before response): -
+Baseline Risk (before response): T
+Baseline Risk (before response): 3
+Baseline Risk (before response): 4
+Baseline Risk (before response): 12
+Baseline Risk (before response): Fabrication delays and out of spec delivered product
+Risk Response: mitigate
+Risk Response: Compile BOM and ascertain component lead times from vendors in advance of PO issue
+Risk Response: before PO issued
+Residual Risk (after response): 3
+Residual Risk (after response): 3
+Residual Risk (after response): [NO DATA PPROVIDED]
+Residual Risk (after response): Unexepcted component shortage
+Residual Risk (after response): [NO DATA PPROVIDED]
+Residual Risk (after response): USE COTS components where possible
+Contingency Plan (as if the risk has occurred): delay Power and data cable validation tests
+
+--- [Risk Item 13] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Commercial
+RBS: 3.3 Suppliers and vendors
+RBS: Mooring Sytem Procurement
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): T
+Baseline Risk (before response): 3
+Baseline Risk (before response): 3
+Baseline Risk (before response): 9
+Baseline Risk (before response): components are not available
+Risk Response: avoid
+Risk Response: Compile BOM and ascertain component lead times from vendors in advance of PO issue
+Risk Response: before PO issued
+Residual Risk (after response): 3
+Residual Risk (after response): 1
+Residual Risk (after response): 3
+Residual Risk (after response): Unexepcted component shortage
+Residual Risk (after response): [NO DATA PPROVIDED]
+Residual Risk (after response): USE COTS components
+Contingency Plan (as if the risk has occurred): delay moorins system  validation tests
+
+--- [Risk Item 14] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Commercial
+RBS: 3.3 Suppliers and vendors
+RBS: Dirveline Procurement
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): T
+Baseline Risk (before response): 3
+Baseline Risk (before response): 4
+Baseline Risk (before response): 12
+Baseline Risk (before response): Custom components require fabrication lead time
+Risk Response: mitigate
+Risk Response: Frequent vendor communication , issue PO with room for schedule creep, Rapid change order resolution, contractual penalties for schedule slip or incorrect product delivery
+Risk Response: before PO issued
+Residual Risk (after response): 3
+Residual Risk (after response): 2
+Residual Risk (after response): 6
+Residual Risk (after response): Unexpected fabrication delays
+Residual Risk (after response): Increased cost and effort
+Residual Risk (after response): Freqent vendor communications, contract includes penalties for late delivery
+Contingency Plan (as if the risk has occurred): Delay full system validation  tests
+
+--- [Risk Item 15] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Commercial
+RBS: 3.3 Suppliers and vendors
+RBS: Mechanical Brake Procurement
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): T
+Baseline Risk (before response): 3
+Baseline Risk (before response): 4
+Baseline Risk (before response): 12
+Baseline Risk (before response): Custom components require fabrication lead time
+Risk Response: mitigate
+Risk Response: Frequent vendor communication , issue PO with room for schedule creep, Rapid change order resolution, contractual penalties for schedule slip or incorrect product delivery
+Risk Response: before PO issued
+Residual Risk (after response): 3
+Residual Risk (after response): 2
+Residual Risk (after response): 6
+Residual Risk (after response): Unexpected fabrication delays
+Residual Risk (after response): Increased cost and effort
+Residual Risk (after response): Freqent vendor communications, contract includes penalties for late delivery
+Contingency Plan (as if the risk has occurred): Delay mechanical brake  validation  tests
+
+--- [Risk Item 16] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Technical
+RBS: 1.5 Technology
+RBS: Buoyancy System Validation
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): Q
+Baseline Risk (before response): 4
+Baseline Risk (before response): 3
+Baseline Risk (before response): 12
+Baseline Risk (before response): Buoyancy System fails some or all of validation tests
+Risk Response: avoid
+Risk Response: Utilizing Incremetnal improvements to a proven concept, add redundancy to design Perform land based tests in May 2017 and move on to on water validation tests prior to shipment to Igiugig
+Risk Response: before assembly and commissioning
+Residual Risk (after response): 3
+Residual Risk (after response): 2
+Residual Risk (after response): 6
+Residual Risk (after response): Unexpected component failure after validation but prior to deployment
+Residual Risk (after response): Increased cost and effort
+Residual Risk (after response): Clearly scope validation tests to ensure tests rigoroulsy validatebuoyncy system
+Contingency Plan (as if the risk has occurred): Secondary redundant  isolated recovery system also validated
+
+--- [Risk Item 17] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Technical
+RBS: 1.5 Technology
+RBS: Structural Assembly Validation
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): Q
+Baseline Risk (before response): 4
+Baseline Risk (before response): 3
+Baseline Risk (before response): 12
+Baseline Risk (before response): Sturctural Assembly  fails some or all of validation tests
+Risk Response: avoid
+Risk Response: FEA analysis of structure include load factors following DNV standards and considers extreme loading conditions such as uneven bottom and detalied CAD models for subsystem interfaces vlaidation tests to ensure strucutral integrityu meets specs incorporate structural redundancy
+Risk Response: before assembly and commissioning
+Residual Risk (after response): 3
+Residual Risk (after response): 2
+Residual Risk (after response): 6
+Residual Risk (after response): unexpcted structural failure
+Residual Risk (after response): additional desing work, materials, or strucutral damage during validation could increase cost to repair
+Residual Risk (after response): Complete thorough design and analysis, desing to DNV standards, incoproate redundant strucutre where possible
+Contingency Plan (as if the risk has occurred): Utilize local resources to effect repair and/or structural improvements
+
+--- [Risk Item 18] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Technical
+RBS: 1.5 Technology
+RBS: Turbine Validation
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): Q
+Baseline Risk (before response): 3
+Baseline Risk (before response): 3
+Baseline Risk (before response): 9
+Baseline Risk (before response): Turbine Assembly fails some or all of validation tests
+Risk Response: avoid
+Risk Response: Utilize CFD as design tool for performance validation, FEA analysis of turbines include load factors following DNV standards and considers extreme loading conditions, secondary design input from composite manufacturer
+Risk Response: before assembly and commissioning
+Residual Risk (after response): 3
+Residual Risk (after response): 2
+Residual Risk (after response): 6
+Residual Risk (after response): unexpected turbine failure
+Residual Risk (after response): increased cost added structural elements could reduce turbine performance
+Residual Risk (after response): thorough design and analysis, utilizing third party expertise to confirm design
+Contingency Plan (as if the risk has occurred): accept lower power output, system removal, inspection and turbine replacement if necessary
+
+--- [Risk Item 19] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Technical
+RBS: 1.5 Technology
+RBS: Generator Validation
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): Q
+Baseline Risk (before response): 3
+Baseline Risk (before response): 4
+Baseline Risk (before response): 12
+Baseline Risk (before response): Genertor fails some or all of validation tests
+Risk Response: avoid
+Risk Response: Factory Accpetance testing and laboratory testing of Genertor integrated with Power elecrtornics to ensure compatibility
+Risk Response: before assembly and commissioning
+Residual Risk (after response): 3
+Residual Risk (after response): 2
+Residual Risk (after response): 6
+Residual Risk (after response): unexpected generator failure
+Residual Risk (after response): Increased cost, schedule slip possible
+Residual Risk (after response): Ensure adequate Factory acceptance testing and laboratory validation before shipment ot Igiugig
+Contingency Plan (as if the risk has occurred): Refurbish and reuse protptype generator while effecting generator repair
+
+--- [Risk Item 20] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Technical
+RBS: 1.5 Technology
+RBS: Power Electronics Validation
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: M. Worthington (Project Management)
+Baseline Risk (before response): -
+Baseline Risk (before response): Q
+Baseline Risk (before response): 3
+Baseline Risk (before response): 4
+Baseline Risk (before response): 12
+Baseline Risk (before response): Power Electronics fails validation
+Risk Response: avoid
+Risk Response: Factory accpetance tests and sequenced laboratory testing to ensure Power Electronics meets requirements before shipment
+Risk Response: before assembly and commissioning
+Residual Risk (after response): 3
+Residual Risk (after response): 3
+Residual Risk (after response): 9
+Residual Risk (after response): unexpected Power Electonics failure or grid integrid issues
+Residual Risk (after response): incresed cost, schedule slip possible
+Residual Risk (after response): Adequate factory acceptance tests, thorough laboratory validation prior to shipment
+Contingency Plan (as if the risk has occurred): dissipate power through secondary load bank or brake RivGen device  while resolving PE issues , revert to grid following system if needed
+
+--- [Risk Item 21] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Technical
+RBS: 1.5 Technology
+RBS: SCADA Validation
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): Q
+Baseline Risk (before response): 3
+Baseline Risk (before response): 4
+Baseline Risk (before response): 12
+Baseline Risk (before response): SCADA system fails validation
+Risk Response: avoid
+Risk Response: Factory accpetance tests and sequenced laboratory testing to ensure SCADA  meets requirements before shipment
+Risk Response: before assembly and commissioning
+Residual Risk (after response): 3
+Residual Risk (after response): 3
+Residual Risk (after response): 9
+Residual Risk (after response): unexpected SCADA failure or communciations issues
+Residual Risk (after response): increased cost
+Residual Risk (after response): Adequate bench tests through full length power and data cables,  laboratory validation prior to shipment
+Contingency Plan (as if the risk has occurred): Operate with simplified control system remove device and repair if on device SCADA compromised.
+
+--- [Risk Item 22] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Technical
+RBS: 1.5 Technology
+RBS: power and Data cable validation
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: M. Worthington (Project Management)
+Baseline Risk (before response): -
+Baseline Risk (before response): Q
+Baseline Risk (before response): 4
+Baseline Risk (before response): 3
+Baseline Risk (before response): 12
+Baseline Risk (before response): Power and data cables failure
+Risk Response: avoid
+Risk Response: Utilize proven cable technology utilize secondary cable armor in high risk areas utilize redundant conductors for data and fiber optic, reduce inspections and associated wear and tear
+Risk Response: before assembly and commissioning
+Residual Risk (after response): 4
+Residual Risk (after response): 2
+Residual Risk (after response): 8
+Residual Risk (after response): unexpected power and data cable failure
+Residual Risk (after response): Increased cost and operational complexity, increased uncertainty of cable health with reduced inspections
+Residual Risk (after response): ensure cable meets specs test full length cable with SCADA system to ensure data signal is adequate
+Contingency Plan (as if the risk has occurred): Replace power and data cable
+
+--- [Risk Item 23] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Technical
+RBS: 1.5 Technology
+RBS: Mooring Sytem Validation
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): [NO DATA PPROVIDED]
+Baseline Risk (before response): Q
+Baseline Risk (before response): 5
+Baseline Risk (before response): 3
+Baseline Risk (before response): 15
+Baseline Risk (before response): Mooring system failure
+Risk Response: avoid
+Risk Response: Design to DNV standards, utilize geophyisical knowledge and seek industry expertise to specify mooring system components, consider most favorable failure modes
+Risk Response: before assembly and commissioning
+Residual Risk (after response): 5
+Residual Risk (after response): 2
+Residual Risk (after response): 10
+Residual Risk (after response): unexpected mooring system failure
+Residual Risk (after response): increased size and operational complexity as a result of desing to high load and safety factors
+Residual Risk (after response): Utilize industry expertise to guide mooring system design
+Contingency Plan (as if the risk has occurred): Allow anchor slip as favorable failure mode, replace drage anchors with gravity anchors if needed.
+
+--- [Risk Item 24] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Technical
+RBS: 1.5 Technology
+RBS: Dirveline Validation
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): [NO DATA PPROVIDED]
+Baseline Risk (before response): Q
+Baseline Risk (before response): 4
+Baseline Risk (before response): 4
+Baseline Risk (before response): 16
+Baseline Risk (before response): Driveline failure
+Risk Response: avoid
+Risk Response: Throught validation testing, desing system for increased operational tolerances and loads, choosed components with long service life and minimal maintenance and alignement requirements increase modularity for replacement
+Risk Response: before assembly and commissioning
+Residual Risk (after response): 4
+Residual Risk (after response): 3
+Residual Risk (after response): 12
+Residual Risk (after response): unexpected direvline failure
+Residual Risk (after response): Incresed cost
+Residual Risk (after response): Complete thorough validation testing and incorpoate design mods as needed
+Contingency Plan (as if the risk has occurred): Validation tests in advance of system build, leaving time to redesign and replace.
+
+--- [Risk Item 25] ---
+Kolom_0: 2017-02-21 00:00:00
+RBS: Technical
+RBS: 1.5 Technology
+RBS: Mechanical Brake
+RBS: 7
+RBS: 7
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): [NO DATA PPROVIDED]
+Baseline Risk (before response): Q
+Baseline Risk (before response): 4
+Baseline Risk (before response): 4
+Baseline Risk (before response): 16
+Baseline Risk (before response): Mechanical Brake Failure
+Risk Response: avoid
+Risk Response: Throught validation testing, redundant electrical brake, Rely on third party expertise for design
+Risk Response: before assembly and commissioning
+Residual Risk (after response): 3
+Residual Risk (after response): 3
+Residual Risk (after response): 9
+Residual Risk (after response): unexpected mechanical brake failure
+Residual Risk (after response): Incresed cost and complexity
+Residual Risk (after response): Complete thorough validation testing including redudnant electrical brake
+Contingency Plan (as if the risk has occurred): use electrical brake or remove system from current
+
+--- [Risk Item 26] ---
+Kolom_0: 2017-02-24 00:00:00
+RBS: External
+RBS: 4.6 Regulatory
+RBS: Receipt of all permits and licesenses
+RBS: [NO DATA PPROVIDED]
+RBS: [NO DATA PPROVIDED]
+Technology Life Phase: Multiple (or all) life phases
+Risk Owner: N. Johnson (environmental)
+Baseline Risk (before response): -
+Baseline Risk (before response): R
+Baseline Risk (before response): 5
+Baseline Risk (before response): 4
+Baseline Risk (before response): 20
+Baseline Risk (before response): Reciept of FERC Pilot license or permits are delayed and compromise deployment
+Risk Response: avoid
+Risk Response: Continue regular dialogue with regulatory agencies after final pilot license and other permit applications, respond to AIRs in timely manner
+Risk Response: December
+Residual Risk (after response): 5
+Residual Risk (after response): 3
+Residual Risk (after response): 15
+Residual Risk (after response): uncertainity with regurlatory agency approvals in spite of regular communication and timely responses
+Residual Risk (after response): increased cost and effort
+Residual Risk (after response): manage personnel time and availablity accordingly
+Contingency Plan (as if the risk has occurred): Move forward under Verdant exemption, secure necessary state permits
+
+--- [Risk Item 27] ---
+Kolom_0: 2017-02-24 00:00:00
+RBS: Management
+RBS: 2.1 Project management
+RBS: Component delivery to Igiugig
+RBS: 7
+RBS: 7
+Technology Life Phase: Transportation
+Risk Owner: M. Worthington (Project Management)
+Baseline Risk (before response): -
+Baseline Risk (before response): T
+Baseline Risk (before response): 4
+Baseline Risk (before response): 3
+Baseline Risk (before response): 12
+Baseline Risk (before response): Component shipment to Igiugig is delayed due to schedule slip, transportation contractor issues, weather or other
+Risk Response: mitigate
+Risk Response: Track project schedule, align component validation and delivery to port of shipment with shipper schedules, ship components early if possible arrival on first barge of season (June 2018) or second (Jluy 2018) at latest
+Risk Response: before assembly and commissioning
+Residual Risk (after response): 4
+Residual Risk (after response): 2
+Residual Risk (after response): 8
+Residual Risk (after response): Unexcepcted or uncontrollabel circumstances lead to delays
+Residual Risk (after response): increased cost and effort
+Residual Risk (after response): track shipment continuously
+Contingency Plan (as if the risk has occurred): delay deployment to 2019 if component delivery is delayed past July 2018
+
+--- [Risk Item 28] ---
+Kolom_0: 2017-02-24 00:00:00
+RBS: Technical
+RBS: 1.6 Technical interfaces
+RBS: Device assmebly
+RBS: 7
+RBS: 7
+Technology Life Phase: Assembly and commissioning
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): T
+Baseline Risk (before response): 4
+Baseline Risk (before response): 3
+Baseline Risk (before response): 12
+Baseline Risk (before response): Device assembly difficult or requires modification in Igiugig
+Risk Response: mitigate
+Risk Response: Device assembly is fdifficult or requires workaround in Igiugig due to component interfaces, component damage during shipment, or other.  Timing June-August 2018
+Risk Response: June
+Residual Risk (after response): 4
+Residual Risk (after response): 2
+Residual Risk (after response): 8
+Residual Risk (after response): Preassembl as many components as possible prior to shipment to Igiugig
+Residual Risk (after response): Increased cost and effort
+Residual Risk (after response): include device assembly in validation with as many components as practical avoid unnecsary assembly steps prior to shipment to reduce cost and effort
+Contingency Plan (as if the risk has occurred): perfrom redesign and modifcation work in Igiugig as needed with local fabrication resources.  If assembly slips past August 2018 deploy system in June 2019
+
+--- [Risk Item 29] ---
+Kolom_0: 2017-02-24 00:00:00
+RBS: Technical
+RBS: 1.7 System reliability
+RBS: Power System /comissioning issues
+RBS: 7
+RBS: 7
+Technology Life Phase: Assembly and commissioning
+Risk Owner: M. Worthington (Project Management)
+Baseline Risk (before response): -
+Baseline Risk (before response): Q
+Baseline Risk (before response): 5
+Baseline Risk (before response): 3
+Baseline Risk (before response): 15
+Baseline Risk (before response): Power System deployment/comissioning encounters unexpected difficulties
+Risk Response: mitigate
+Risk Response: prior device testing and component testing in Nikiksi and elsewhere will reduce unexpected issues with deployment or comissioning. Thewe validation steps completed by May 2018
+Risk Response: August
+Residual Risk (after response): 5
+Residual Risk (after response): 2
+Residual Risk (after response): 10
+Residual Risk (after response): Per shipment validation work in Nikiksi with device and with other components in lab will recude likelihood of unexpcted issues
+Residual Risk (after response): testing may cause damge to components, increased cost and effort
+Residual Risk (after response): Test all components in configuration for Igiugig deployment when practical and within budget
+Contingency Plan (as if the risk has occurred): Resolove issues with locally available resources.  If issue not resolved by the end of Septmber 2018, remove device for modifcation/repair and redeploy in June 2019
+
+--- [Risk Item 30] ---
+Kolom_0: 2017-02-24 00:00:00
+RBS: Technical
+RBS: 1.7 System reliability
+RBS: Complications with winter ice
+RBS: 6
+RBS: 6
+Technology Life Phase: Extreme events
+Risk Owner: R. Tyler (lead engineer)
+Baseline Risk (before response): -
+Baseline Risk (before response): Q
+Baseline Risk (before response): 5
+Baseline Risk (before response): 4
+Baseline Risk (before response): 20
+Baseline Risk (before response): Ice accumlation on or interaction with device causes power disruption, reduction, or equipment damage
+Risk Response: mitigate
+Risk Response: Collection of in river ice data for 2 years prior to deployment feeds engineeering and IO&M planning, June 2017- June 2018.  ON device ice monitoring allows for operational state modification if adverse conditions or interactions occure
+Risk Response: June
+Residual Risk (after response): 5
+Residual Risk (after response): 3
+Residual Risk (after response): 15
+Residual Risk (after response): Uncertiainty of ice interaction or in river formation leads to impact on device operations
+Residual Risk (after response): Increased cost and effort
+Residual Risk (after response): perform thorough analysis of ice data from in river data collection, perform thorough FMEA of risks this type of ice formation or movement will have on device
+Contingency Plan (as if the risk has occurred): Remove divce from irver if possible, or curtail or disccontinue device operations until ice event passes or equipment can be safely removed and repaired if damaged
+
+--- [Risk Item 31] ---
+Kolom_0: 2017-02-24 00:00:00
+RBS: External
+RBS: 4.4 Environmental/weather
+RBS: Adverse salmon smolt interactions
+RBS: 6
+RBS: 6
+Technology Life Phase: Normal power production
+Risk Owner: N. Johnson (environmental)
+Baseline Risk (before response): -
+Baseline Risk (before response): E
+Baseline Risk (before response): 4
+Baseline Risk (before response): 4
+Baseline Risk (before response): 16
+Baseline Risk (before response): Salmon smolt data collection shows adverse reaction, or inadequate data collection does not provide regualtory agencies with adequate information to allow operation or testing during salmon smolt outmigration
+Risk Response: mitigate
+Risk Response: Develop rigorous fish monitroing pland in budget period 2.  Consulst with state and federal agencies reularly to ensure study plan and instrumentation  provides adeqaute infoarmaton for decision making, operate device only under continuoius montiroring during smolt outmigration
+Risk Response: May
+Residual Risk (after response): 4
+Residual Risk (after response): 3
+Residual Risk (after response): 12
+Residual Risk (after response): Lack of established industry standard for smolt monitoring ore previous data on MHK device with salmon smolt means effort will be experimental in nature, and any result or lack of is possible
+Residual Risk (after response): incresed cost without eliminating or adequtely redugin risk
+Residual Risk (after response): Establish adaptive management plan with agencies in advance of deployment to allow real time data anlaysis and modifcaiton of device operational plan if adverse interactions occur
+Contingency Plan (as if the risk has occurred): Stop device operations during smolt outmigration, remove device if necessary
+
+--- [Risk Item 32] ---
+Kolom_0: 2017-02-24 00:00:00
+RBS: Technical
+RBS: 1.7 System reliability
+RBS: Device removal complications
+RBS: 7
+RBS: 7
+Technology Life Phase: Decommissioning
+Risk Owner: M. Worthington (Project Management)
+Baseline Risk (before response): -
+Baseline Risk (before response): Q
+Baseline Risk (before response): 5
+Baseline Risk (before response): 3
+Baseline Risk (before response): 15
+Baseline Risk (before response): Device removal complicated by technological or environmental factors
+Risk Response: mitigate
+Risk Response: Buoyancy system includes redundant and isoalted retrieval mechanisms, pre testing In Nikiski to reduce risk of retreival issues arrising
+Risk Response: May
+Residual Risk (after response): 5
+Residual Risk (after response): 2
+Residual Risk (after response): 10
+Residual Risk (after response): redundant pretested systems reduce likleihood of retrieval issue
+Residual Risk (after response): increased cost and effort, increase system complexity
+Residual Risk (after response): Document results of pre testing in Nikiksi, visually inspect devid during deployment with attention to buoyancy system components
+Contingency Plan (as if the risk has occurred): Utilize locaaly available resources to develop contingency retrival operations
+
+--- [Risk Item 33] ---
+Kolom_0: 2017-02-24 00:00:00
+RBS: Commercial
+RBS: 3.3 Suppliers and vendors
+RBS: Higher cost for maintenance and logistical support required
+RBS: 7
+RBS: 6
+Technology Life Phase: Normal power production
+Risk Owner: M. Worthington (Project Management)
+Baseline Risk (before response): -
+Baseline Risk (before response): C
+Baseline Risk (before response): 4
+Baseline Risk (before response): 4
+Baseline Risk (before response): 16
+Baseline Risk (before response): Higher cost for maintenance and logistical support required for final design and operations plan, including training and personnel requirements, external equipment and spares.
+Risk Response: mitigate
+Risk Response: Developing system requirements will be critical for determining technical scope for operations and maintenance technical support; involve local resources and include 3rd party input to accurately ascertain feasibility of proposed systems for logistical and technical requirements in remote environment. Develop trained leads during project who will be responsible for operating the systems after the project.
+Risk Response: before assembly and commissioning
+Residual Risk (after response): 2
+Residual Risk (after response): 2
+Residual Risk (after response): 4
+Residual Risk (after response): Higher cost risk should be lessened
+Residual Risk (after response): complex supply chain and remote area logistics may still impact cost estimates
+Residual Risk (after response): structure contract to include incentives/penalties and FFP where possible
+Contingency Plan (as if the risk has occurred): follow contractual provisions for higher costs, ensure lessons learned have path for improvement post-process

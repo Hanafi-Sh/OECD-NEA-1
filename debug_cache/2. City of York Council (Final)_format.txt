@@ -1,0 +1,584 @@
+--- [Risk Item 1] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 3
+Risk Description: Failure to discharge planning and listed building conditions
+Project Stage: Pre-construction
+Project Category: Planning
+Likelihood (1-10): 3.3333333333333335
+Impact (1-10): 1.6666666666666667
+Risk Priority (low, med, high): Low
+Risk Owner: Project Manager
+Mitigating Action: [NO DATA PPROVIDED]
+Result: Design team and contractor to collate initial pack of information for discharge of conditions
+
+--- [Risk Item 2] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 4
+Risk Description: Planning conditions impact on budget
+Project Stage: Pre-construction
+Project Category: Planning
+Likelihood (1-10): 6.666666666666667
+Impact (1-10): 5.0
+Risk Priority (low, med, high): High
+Risk Owner: Project Manager
+Mitigating Action: Increase project budget
+Result: Extent of conditions known and to be reviewed and managed
+
+--- [Risk Item 3] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 10
+Risk Description: Electricity provider works delayed or non-conforming
+Project Stage: Construction
+Project Category: Legislation
+Likelihood (1-10): 3.3333333333333335
+Impact (1-10): 3.3333333333333335
+Risk Priority (low, med, high): Low
+Risk Owner: Project Manager
+Mitigating Action: Works to provide new supply are delayed / not in accordance with the programme to save having to provide a sub-station.
+Result: Orders for the electrical services have been placed by CYC direct
+
+--- [Risk Item 4] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 11
+Risk Description: Building Control Sign Off delay due to lack of resources
+Project Stage: Construction / Commissioning
+Project Category: Legislation
+Likelihood (1-10): 3.3333333333333335
+Impact (1-10): 3.3333333333333335
+Risk Priority (low, med, high): Low
+Risk Owner: Project Manager
+Mitigating Action: Revisit design to address concerns of building control
+Result: Continue liaison with the Building Control Officer
+
+--- [Risk Item 5] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 12
+Risk Description: Impact of boat companies (City Cruises)
+Project Stage: Construction
+Project Category: Planning
+Likelihood (1-10): 3.3333333333333335
+Impact (1-10): 1.6666666666666667
+Risk Priority (low, med, high): Low
+Risk Owner: Project Manager
+Mitigating Action: Impact delivery/ site servicing strategy.
+Result: Legal agreements are in place
+
+--- [Risk Item 6] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 13
+Risk Description: Party wall negotiations & construction access
+Project Stage: Pre-construction
+Project Category: Planning
+Likelihood (1-10): 5.0
+Impact (1-10): 6.666666666666667
+Risk Priority (low, med, high): Yellow
+Risk Owner: Project Manager
+Mitigating Action: Objection from neighbours. Potential delay to programme
+Result: Appoint party wall surveyor and progress discussions with neighbours
+
+--- [Risk Item 7] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 14
+Risk Description: Failure to secure market interest for restaurant tenant
+Project Stage: Pre-construction / Operation
+Project Category: Procurement
+Likelihood (1-10): 5.0
+Impact (1-10): 8.333333333333334
+Risk Priority (low, med, high): High
+Risk Owner: Project Manager
+Mitigating Action: Restaurant not achieving appropriate tenant and long term revenue projections. Impact on project cost.
+Result: Early engagement of agent for potential lettings. Sufficient expressions of interest
+
+--- [Risk Item 8] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 16
+Risk Description: Increased construction costs
+Project Stage: Construction
+Project Category: Procurement
+Likelihood (1-10): 5.0
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Med
+Risk Owner: Project Manager
+Mitigating Action: Exchange rate on materials. Impact of international markets following political decisions.
+Result: Tender prices received and under review - Risk shall remain prominent where budget costs / provisional sums are included
+
+--- [Risk Item 9] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 18
+Risk Description: Sub-contractor insolvency
+Project Stage: Construction
+Project Category: Procurement
+Likelihood (1-10): 6.666666666666667
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Med
+Risk Owner: Construction Manager
+Mitigating Action: Impacts Main Contractor
+Result: Contractor financial checks and vetting of subcontractors
+
+--- [Risk Item 10] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 20
+Risk Description: Surveys required to determine ground conditions/ contamination
+Project Stage: Pre-construction
+Project Category: Surveys
+Likelihood (1-10): 1.6666666666666667
+Impact (1-10): 8.333333333333334
+Risk Priority (low, med, high): Low
+Risk Owner: Lead Engineer
+Mitigating Action: Possible need to re-visit design / deal with contamination on site.
+Result: GI survey undertaken, information obtained. Contamination results received. - Desk study provided by Arup
+
+--- [Risk Item 11] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 21
+Risk Description: Identification of active movement
+Project Stage: Pre-construction
+Project Category: Surveys
+Likelihood (1-10): 1.6666666666666667
+Impact (1-10): 8.333333333333334
+Risk Priority (low, med, high): Low
+Risk Owner: Structural Engineer
+Mitigating Action: Proven to be active, remediation impacts cost
+Result: Ongoing monitoring by ARUP and monitoring specification included within contract documents
+
+--- [Risk Item 12] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 22
+Risk Description: Unidentified archaeology
+Project Stage: Pre-construction
+Project Category: Surveys
+Likelihood (1-10): 3.3333333333333335
+Impact (1-10): 3.3333333333333335
+Risk Priority (low, med, high): Low
+Risk Owner: Environment Lead
+Mitigating Action: Further evaluation required. Cost impact
+Result: Evaluation of site undertaken
+
+--- [Risk Item 13] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 23
+Risk Description: Additional surveys required
+Project Stage: Pre-construction
+Project Category: Surveys
+Likelihood (1-10): 1.6666666666666667
+Impact (1-10): 1.6666666666666667
+Risk Priority (low, med, high): Low
+Risk Owner: Project Manager
+Mitigating Action: Cost impact
+Result: Undertake outstanding surveys
+
+--- [Risk Item 14] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 26
+Risk Description: Unrealistic programme submitted by contractor
+Project Stage: Pre-construction
+Project Category: Programme
+Likelihood (1-10): 1.6666666666666667
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Low
+Risk Owner: Project Manager
+Mitigating Action: -
+Result: Market tested
+
+--- [Risk Item 15] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 27
+Risk Description: Programme delays; due to flood levels impacting construction
+Project Stage: Construction
+Project Category: Programme
+Likelihood (1-10): 10.0
+Impact (1-10): 8.333333333333334
+Risk Priority (low, med, high): High
+Risk Owner: Environment Lead
+Mitigating Action: Works stop, cost and programme implications
+Result: Review historic flood data and issue to Contractor. Contingency plan to be developed
+
+--- [Risk Item 16] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 29
+Risk Description: Delay to design programme
+Project Stage: Pre-construction
+Project Category: Design
+Likelihood (1-10): 5.0
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Med
+Risk Owner: Design Manager
+Mitigating Action: Client/ Contractor impact cost/programme
+Result: Implementation of IRS schedules design deliverables and clear responsibility for design
+
+--- [Risk Item 17] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 31
+Risk Description: Underpinning, piling and crack repairs to be considered
+Project Stage: Pre-construction
+Project Category: Design
+Likelihood (1-10): 5.0
+Impact (1-10): 8.333333333333334
+Risk Priority (low, med, high): High
+Risk Owner: Structural Engineer
+Mitigating Action: May resolve existing cracks and movement of the tower but other cracks may appear elsewhere that will require repairing.
+Result: Detailed dilapidations surveys, crack monitors
+
+--- [Risk Item 18] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 32
+Risk Description: Discovering structural unknowns
+Project Stage: Construction
+Project Category: Design
+Likelihood (1-10): 8.333333333333334
+Impact (1-10): 6.666666666666667
+Risk Priority (low, med, high): [NO DATA PPROVIDED]
+Risk Owner: Structural Engineer
+Mitigating Action: Costs of additional surveys and remediation works.
+Result: Undertake surveys early to determine unknowns. Allow suitable contingency for remediation. Biggest concerns being the tower underpinning and South Range
+
+--- [Risk Item 19] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 35
+Risk Description: Undetected services not identified on surveys and drawings
+Project Stage: Construction
+Project Category: Services
+Likelihood (1-10): 3.3333333333333335
+Impact (1-10): 5.0
+Risk Priority (low, med, high): High
+Risk Owner: Lead Engineer
+Mitigating Action: Programme/ re-design/ cost impact to address unknown
+Result: Utilities surveys maps obtained and plotted on SGA drawings. Careful excavation / groundworks when on site
+
+--- [Risk Item 20] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 40
+Risk Description: River source heat pump license approval by the Environment Agency; Refused
+Project Stage: Pre-construction
+Project Category: Services
+Likelihood (1-10): 1.6666666666666667
+Impact (1-10): 6.666666666666667
+Risk Priority (low, med, high): Low
+Risk Owner: Environment Lead
+Mitigating Action: Delay in no approval from EA
+Result: Provisional consent obtained; continued dialogue required
+
+--- [Risk Item 21] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 41
+Risk Description: Sourcing stone for remediation works
+Project Stage: Construction
+Project Category: Materials
+Likelihood (1-10): 6.666666666666667
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Med
+Risk Owner: Procurement Manager
+Mitigating Action: Quarry that stone exists from is closed. Impacts programme, and different stone requires further approval from Historic England and the planning authority
+Result: Investigate other quarries which supply the stone. Liaise with Historic England and the planning authority to have an alternative approved.
+
+--- [Risk Item 22] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 42
+Risk Description: Structural damage and the repairs required to the tower
+Project Stage: Construction
+Project Category: Construction
+Likelihood (1-10): 6.666666666666667
+Impact (1-10): 6.666666666666667
+Risk Priority (low, med, high): High
+Risk Owner: Structural Engineer
+Mitigating Action: Finding the right solution to undertake the underpinning works
+Result: Bullivants / Arup design and Vinci temporary works design to be reviewed in detail to mitigate any consequential delay. Building monitoring systems and locations to be agreed.
+
+--- [Risk Item 23] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 48
+Risk Description: Outstanding defects remaining unresolved
+Project Stage: Commissioning
+Project Category: Post contract
+Likelihood (1-10): 3.3333333333333335
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Low
+Risk Owner: Project Manager
+Mitigating Action: CYC left with legacy issues and building defects which need resolving / impact on tenant occupation / satisfaction.
+Result: Ability to resolve within the building contract. Use of retention
+
+--- [Risk Item 24] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 50
+Risk Description: Costs exceeds allocated budget (Non Construction costs)
+Project Stage: Construction / Commissioning
+Project Category: Financial
+Likelihood (1-10): 8.333333333333334
+Impact (1-10): 5.0
+Risk Priority (low, med, high): High
+Risk Owner: Project Manager
+Mitigating Action: Particular risks surrounding consultant fees, furniture / fit out works etc.
+Result: Review non construction costs prior to contract award and during construction
+
+--- [Risk Item 25] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 51
+Risk Description: Incorrect estimation design errors and ambiguities
+Project Stage: Pre-construction
+Project Category: Financial
+Likelihood (1-10): 5.0
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Med
+Risk Owner: Design Manager
+Mitigating Action: Construction cost overrun
+Result: Risk sits with CYC except CDP items
+
+--- [Risk Item 26] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 56
+Risk Description: Availability of specialist labour / equipment
+Project Stage: Construction
+Project Category: Construction
+Likelihood (1-10): 5.0
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Med
+Risk Owner: Project Manager
+Mitigating Action: Change in specification / need to  appoint specialists / commission bespoke works
+Result: Dialogue with main contractor & supply chain
+
+--- [Risk Item 27] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 61
+Risk Description: Poor co-ordination with design team interfaces (contractor design portions)
+Project Stage: Construction
+Project Category: Design
+Likelihood (1-10): 3.3333333333333335
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Low
+Risk Owner: Design Manager
+Mitigating Action: -
+Result: CDP requirements have reduced from initial intent - Regular meetings to be held with Vinci and Design Team to discuss CDP interfaces.
+
+--- [Risk Item 28] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 62
+Risk Description: Rights of Light
+Project Stage: Pre-construction
+Project Category: Adjoining Owners
+Likelihood (1-10): 1.6666666666666667
+Impact (1-10): 6.666666666666667
+Risk Priority (low, med, high): Low
+Risk Owner: Project Manager
+Mitigating Action: -
+Result: Title report does not identify any issues
+
+--- [Risk Item 29] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 64
+Risk Description: Poor contractor performance during construction
+Project Stage: Construction
+Project Category: Construction
+Likelihood (1-10): 3.3333333333333335
+Impact (1-10): 8.333333333333334
+Risk Priority (low, med, high): Med
+Risk Owner: Project Manager
+Mitigating Action: -
+Result: Contract to be signed to protect client - performance bonds to be obtained.
+
+--- [Risk Item 30] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 66
+Risk Description: Unknown South Range structures
+Project Stage: Construction
+Project Category: Design
+Likelihood (1-10): 6.666666666666667
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Med
+Risk Owner: Structural Engineer
+Mitigating Action: Risk of discovering old basement causing issues with piling proposals
+Result: [NO DATA PPROVIDED]
+
+--- [Risk Item 31] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 67
+Risk Description: Insufficient design detail from specialist CDP packages
+Project Stage: Pre-construction
+Project Category: Design
+Likelihood (1-10): 5.0
+Impact (1-10): 1.6666666666666667
+Risk Priority (low, med, high): Low
+Risk Owner: Design Manager
+Mitigating Action: Impacts the sign off planning conditions  / listed building consents etc. in  particular pre-commencement  conditions
+Result: Regular design reviews and interface management
+
+--- [Risk Item 32] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 70
+Risk Description: Satisfying EA requirements
+Project Stage: Pre-construction
+Project Category: Design
+Likelihood (1-10): 1.6666666666666667
+Impact (1-10): 8.333333333333334
+Risk Priority (low, med, high): Low
+Risk Owner: Environment Lead
+Mitigating Action: Incident occurring which stops the work  and action required to resolve the issue. EA Prohibition.
+Result: Waste management and compliance with the EA to ensure no environmental hazards
+
+--- [Risk Item 33] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 72
+Risk Description: Delay in design programme due to tenant/operator requirements
+Project Stage: Pre-construction
+Project Category: Design
+Likelihood (1-10): 5.0
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Med
+Risk Owner: Design Manager
+Mitigating Action: Operator changes impacting on cost / programme
+Result: Recovery of cost / time included within the Agreements for Lease should late or significant changes be made
+
+--- [Risk Item 34] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 73
+Risk Description: Design changes (including client changes/ variations / EOT & loss & expense claims) and unforeseen items
+Project Stage: Construction
+Project Category: Financial
+Likelihood (1-10): 10.0
+Impact (1-10): 8.333333333333334
+Risk Priority (low, med, high): High
+Risk Owner: Project Manager
+Mitigating Action: Construction cost overrun
+Result: Traditional contract — risk with CYC; secure adequate contingency
+
+--- [Risk Item 35] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 75
+Risk Description: Weather delays
+Project Stage: Construction
+Project Category: Construction
+Likelihood (1-10): 8.333333333333334
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Med
+Risk Owner: Project Manager
+Mitigating Action: Delay to programme - Wind, Temp, Rain
+Result: Contractor to provide impact and allowances via contract
+
+--- [Risk Item 36] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 76
+Risk Description: Underpinning/ crack repairs by third parties
+Project Stage: Construction
+Project Category: Design
+Likelihood (1-10): 3.3333333333333335
+Impact (1-10): 8.333333333333334
+Risk Priority (low, med, high): Med
+Risk Owner: Structural Engineer
+Mitigating Action: Cracks may appear elsewhere. Remediation costs
+Result: Detailed dilapidations surveys, crack monitors
+
+--- [Risk Item 37] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 77
+Risk Description: Ground conditions - Borehole survey depth insufficient
+Project Stage: Pre-construction
+Project Category: Surveys
+Likelihood (1-10): 5.0
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Med
+Risk Owner: Lead Engineer
+Mitigating Action: Proposed piling designs impacted by this and require altering - Time & Cost impact
+Result: Additional bore hole surveys indertaken, no foundatons / obstructions found albeit at relatively shallow depth. (near tower) Bullivants / Arup to review surveys and confirm they are happy with findings. Vinci to design piling to new structures and confirm site information held is adequate
+
+--- [Risk Item 38] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 80
+Risk Description: Instability to boundary wall following demolition
+Project Stage: Construction
+Project Category: Design
+Likelihood (1-10): 5.0
+Impact (1-10): 3.3333333333333335
+Risk Priority (low, med, high): Low
+Risk Owner: Structural Engineer
+Mitigating Action: Structural works required (piers)
+Result: Assessment of wall structure required - Scope of works to be determined
+
+--- [Risk Item 39] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 81
+Risk Description: Clashes between the existing building foundations and proposed drainage network. No information is available for the existing buildings therefore it has not been possible to co-ordinate the height of drainage to pass above/ under the existing foundation as required.
+Project Stage: Construction
+Project Category: Surveys
+Likelihood (1-10): 5.0
+Impact (1-10): 3.3333333333333335
+Risk Priority (low, med, high): Low
+Risk Owner: Lead Engineer
+Mitigating Action: Co-ordination of drainage with foundations during construction. Cost impact.
+Result: Trial holes could be undertaken to better understand the existing foundations. Drainage has been designed conservatively to allow for a level of contingency in the design if foundations impact drainage runs.
+
+--- [Risk Item 40] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 82
+Risk Description: Potential drainage clash with proposed lift shaft pits
+Project Stage: Construction
+Project Category: Surveys
+Likelihood (1-10): 1.6666666666666667
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Low
+Risk Owner: Lead Engineer
+Mitigating Action: Additional external drainage network
+Result: Trial hole dug in the location and appears to be clear - risk to be reviewed again once demoliton of north annex is complete.
+
+--- [Risk Item 41] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 83
+Risk Description: Billing omissions or inaccuracies in BoQ
+Project Stage: Pre-construction
+Project Category: Financial
+Likelihood (1-10): 6.666666666666667
+Impact (1-10): 8.333333333333334
+Risk Priority (low, med, high): High
+Risk Owner: Project Manager
+Mitigating Action: Missing information within the BoQ resulting in time and cost increases
+Result: T&T have carried out reviews of the BoQ
+
+--- [Risk Item 42] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 84
+Risk Description: Additional works not covered by contract documents. Arising from opening up works / scope and extent of works greater than assumed etc.
+Project Stage: Construction
+Project Category: Financial
+Likelihood (1-10): 10.0
+Impact (1-10): 8.333333333333334
+Risk Priority (low, med, high): High
+Risk Owner: Project Manager
+Mitigating Action: Cost & programme
+Result: Detailed change management process to be followed.
+
+--- [Risk Item 43] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 85
+Risk Description: Ongoing movement in the south range, given the removal of underpinning from the scheme
+Project Stage: Construction / Operation
+Project Category: Design
+Likelihood (1-10): 3.3333333333333335
+Impact (1-10): 6.666666666666667
+Risk Priority (low, med, high): Med
+Risk Owner: Structural Engineer
+Mitigating Action: Underpinning works reinstated resulting in cost and time impact
+Result: Monitoring during works
+
+--- [Risk Item 44] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 87
+Risk Description: Design change due to level of development and coordination at the point of tender, for items such as North Annex chimney, retaining walls and stairs, and movement joints to existing structures
+Project Stage: Pre-construction
+Project Category: Design
+Likelihood (1-10): 3.3333333333333335
+Impact (1-10): 3.3333333333333335
+Risk Priority (low, med, high): Low
+Risk Owner: Design Manager
+Mitigating Action: Impact on cost and programme - changes may delay construction activity / impact on sequencing resulting in EOT claims
+Result: Coordination to be managed by design team as a priority - Design changes to retaining concrete wall has been instructed by CYC and should be underway by design team.
+
+--- [Risk Item 45] ---
+Date Added: [NO DATA PPROVIDED]
+Risk ID: 88
+Risk Description: Council chamber cooling to be approved
+Project Stage: Commissioning
+Project Category: Design
+Likelihood (1-10): 3.3333333333333335
+Impact (1-10): 5.0
+Risk Priority (low, med, high): Low
+Risk Owner: Design Manager
+Mitigating Action: Revisit of design proposals - time and cost
+Result: Design team to coordinate with planning / conservation

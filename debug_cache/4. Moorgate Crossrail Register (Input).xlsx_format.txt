@@ -1,0 +1,175 @@
+--- [Risk Item 1] ---
+Risk ID: R1
+Risk Description: Opening of the Moorgate
+Cross rail station is delayed
+further.
+Likelihood (1-10): Possible
+Impact (1-10): Minor
+Risk Priority (low, med, high): Low
+Mitigating Action: Regular engagement with
+Crossrail from now to
+2020/2021. This should allow
+for alternative
+arrangements to be made
+should there be a delay in
+the delivery of Crossrail.
+
+--- [Risk Item 2] ---
+Risk ID: R2
+Risk Description: The Riney highways contract
+is due to expire in the summer
+of 2022. Any slippage in
+starting the construction
+programme may mean we
+have to consider a new
+Principal Contractor for the
+later stages of delivery.
+Likelihood (1-10): Unlikely
+Impact (1-10): Minor
+Risk Priority (low, med, high): Low
+Mitigating Action: Discussions to take place
+internally should this risk look
+more probable on how
+work would be transferred
+to a new contractor- or not
+
+--- [Risk Item 3] ---
+Risk ID: R3
+Risk Description: Delays to the four
+developments surrounding
+the Moorgate Crossrail station
+delay the final delivery
+phases of the MCSL project
+Likelihood (1-10): Possible
+Impact (1-10): Serious
+Risk Priority (low, med, high): Med
+Mitigating Action: Regular engagement with
+developers from now until
+the completion of the developments. This should
+allow for alternative arrangements to be made
+should there be a delay in
+the delivery of the developments and mean
+that we find out as early as
+possible about any delays.
+
+--- [Risk Item 4] ---
+Risk ID: R4
+Risk Description: Infrastructure and utilities
+difficulties at the Moorgate
+junction with London Wall
+and with Ropermaker Street,
+make it difficult/too
+expensive to design and
+transform the space, as well
+as enhance safety.
+Likelihood (1-10): Possible
+Impact (1-10): Major
+Risk Priority (low, med, high): Med
+Mitigating Action: Set expectations at the
+earliest stage possible
+where it is discovered that
+there are major physical
+constraints. Work closely
+with internal and external
+stakeholders to identify
+design solutions to bring the
+work forward that might not
+require such extensive
+physical changes
+
+--- [Risk Item 5] ---
+Risk ID: R5
+Risk Description: Key stakeholder(s) do not
+endorse design options
+Likelihood (1-10): Possible
+Impact (1-10): Serious
+Risk Priority (low, med, high): Med
+Mitigating Action: Ensure that Stakeholder
+Working Group is suitably
+
+--- [Risk Item 6] ---
+Risk ID: R6
+Risk Description: Delays/changes to
+dependency projects, such
+as Beech Street and St. Paul's
+Gyratory.
+Likelihood (1-10): Possible
+Impact (1-10): Serious
+Risk Priority (low, med, high): Med
+Mitigating Action: Work with internal
+stakeholders to minimize
+any impacts should
+changes arise
+
+--- [Risk Item 7] ---
+Risk ID: R7
+Risk Description: Breakdown in engagement
+with key stakeholders, such as
+Islington Council.
+Likelihood (1-10): Unlikely
+Impact (1-10): Serious
+Risk Priority (low, med, high): Low
+Mitigating Action: Ensure coherent
+communications with
+stakeholders and ensure
+stakeholders are
+communicated with at
+strategic points throughout
+the project. Particularly
+proposed boundary
+solutions
+
+--- [Risk Item 8] ---
+Risk ID: R8
+Risk Description: TfL restructure may mean that
+no dedicated scheme
+sponsor / resource can be
+allocated to progress any
+required TfL approvals.
+Likelihood (1-10): Likely
+Impact (1-10): Major
+Risk Priority (low, med, high): High
+Mitigating Action: Officers will seek to
+establish resources as early
+as possible and keep close
+contact to understand the
+extent of the restructure,
+seeking reassurance of
+resource if needed.
+
+--- [Risk Item 9] ---
+Risk ID: R9
+Risk Description: There is a potential that the
+proposed scheme could
+impact negatively on the
+protected characteristics
+under the Equalities Act, 2010.
+Likelihood (1-10): Rare
+Impact (1-10): Serious
+Risk Priority (low, med, high): Low
+Mitigating Action: Meetings with
+representative groups will
+be conducted regularly to
+design out issues of
+concern. The EA Team will
+be engaged regularly for
+design feedback. An EA
+plan will be prepared as
+part of the project.
+
+--- [Risk Item 10] ---
+Risk ID: R10
+Risk Description: Requirement to keep the
+ability for resilience/flexibility
+through the area in traffic
+terms, restricts the options
+that can be developed.
+Likelihood (1-10): Possible
+Impact (1-10): Serious
+Risk Priority (low, med, high): Med
+Mitigating Action: Seek to ensure that an
+appropriate level of
+resilience is allowed for
+when designing Moorgate
+junctions at London Wall
+and Ropemaker Street.

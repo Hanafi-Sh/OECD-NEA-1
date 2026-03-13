@@ -1,0 +1,494 @@
+--- [Risk Item 1] ---
+Date Added: A
+Risk ID: [NO DATA PPROVIDED]
+Risk Description: N
+Project Stage: G
+Project Category: [NO DATA PPROVIDED]
+Risk Owner: H
+Likelihood (1-10) (pre-mitigation): L
+Impact (1-10) (pre-mitigation): K
+Risk Priority (pre-mitigation): M
+Mitigating Action: P
+Likelihood (1-10) (post-mitigation): L
+Impact (1-10) (post-mitigation): K
+Risk Priority (post-mitigation): M
+
+--- [Risk Item 2] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 1.0
+Risk Description: Data sharing from BBSRI at risk
+Project Stage: Pre-construction
+Project Category: Planning
+Risk Owner: Environmental
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 4
+Risk Priority (pre-mitigation): Med
+Mitigating Action: facilitate conversations with Umaine on data sharing
+Likelihood (1-10) (post-mitigation): 6
+Impact (1-10) (post-mitigation): 2
+Risk Priority (post-mitigation): Low
+
+--- [Risk Item 3] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 2.0
+Risk Description: Ice data collection unsuccessful
+Project Stage: Construction
+Project Category: Services
+Risk Owner: UAA lead
+Likelihood (1-10) (pre-mitigation): 6
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Low
+Mitigating Action: real time data collection implemented
+Likelihood (1-10) (post-mitigation): 2
+Impact (1-10) (post-mitigation): 4
+Risk Priority (post-mitigation): Low
+
+--- [Risk Item 4] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 3.0
+Risk Description: Appropriate permits and licenses procured in time for open water testing
+Project Stage: Pre-construction
+Project Category: Regulations
+Risk Owner: Environmental
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 8
+Risk Priority (pre-mitigation): High
+Mitigating Action: FERC Final license application submittal scheduled for 12/17
+Likelihood (1-10) (post-mitigation): 6
+Impact (1-10) (post-mitigation): 8
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 5] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 4.0
+Risk Description: Wet Gap Generator design not yet complete
+Project Stage: Pre-construction
+Project Category: Design
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Design reviews and component validation testing
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Low
+
+--- [Risk Item 6] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 5.0
+Risk Description: Timing of generator procurement from IKM could be tight for schedule
+Project Stage: Construction
+Project Category: Procurement
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Ensure Generator delivery by 2/2018 to allow adequate time for testing using project development plan with regular status reports
+Likelihood (1-10) (post-mitigation): 6
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 7] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 6.0
+Risk Description: Components are not available
+Project Stage: Construction
+Project Category: Procurement
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 4
+Impact (1-10) (pre-mitigation): 4
+Risk Priority (pre-mitigation): Low
+Mitigating Action: Compile BOM and ascertain component lead times from vendors in advance of PO issue
+Likelihood (1-10) (post-mitigation): 2
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Low
+
+--- [Risk Item 8] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 7.0
+Risk Description: Structural Assembly: fabricated components have significant lead times
+Project Stage: Construction
+Project Category: Procurement
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 6
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Frequent vendor communication , issue PO with room for schedule creep, Rapid change order resolution, contractual penalties for schedule slip
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 9] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 8.0
+Risk Description: Turbine: fabricated components have significant lead times
+Project Stage: Construction
+Project Category: Procurement
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Frequent vendor communication , issue PO with room for schedule creep, Rapid change order resolution, contractual penalties for schedule slip
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 10] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 9.0
+Risk Description: Singel source vendor for some components that require design completion and fabrication
+Project Stage: Construction
+Project Category: Design
+Risk Owner: Project Management
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Frequent vendor communication , issue PO with room for schedule creep, Rapid change order resolution, contractual penalties for schedule slip
+Likelihood (1-10) (post-mitigation): 6
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 11] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 10.0
+Risk Description: SCADA components are not available, integration of components and software is delayed
+Project Stage: Construction
+Project Category: Procurement
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Compile BOM and ascertain component lead times from vendors in advance of PO issue
+Likelihood (1-10) (post-mitigation): 6
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 12] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 11.0
+Risk Description: Power Cables: fabrication delays and out of spec delivered product
+Project Stage: Construction
+Project Category: Procurement
+Risk Owner: Project Management
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Compile BOM and ascertain component lead times from vendors in advance of PO issue
+Likelihood (1-10) (post-mitigation): 6
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Low
+
+--- [Risk Item 13] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 12.0
+Risk Description: Mooring System: components are not available
+Project Stage: Construction
+Project Category: Design
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 6
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Compile BOM and ascertain component lead times from vendors in advance of PO issue
+Likelihood (1-10) (post-mitigation): 2
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Low
+
+--- [Risk Item 14] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 13.0
+Risk Description: Driveline procurement: custom components require fabrication lead time
+Project Stage: Construction
+Project Category: Design
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Frequent vendor communication , issue PO with room for schedule creep, Rapid change order resolution, contractual penalties for schedule slip or incorrect product delivery
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 15] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 14.0
+Risk Description: Mechanical brake: custom components require fabrication lead time
+Project Stage: Construction
+Project Category: Design
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Frequent vendor communication , issue PO with room for schedule creep, Rapid change order resolution, contractual penalties for schedule slip or incorrect product delivery
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 16] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 16.0
+Risk Description: Buoyancy System fails some or all of validation tests
+Project Stage: Commissioning
+Project Category: Design
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 6
+Impact (1-10) (pre-mitigation): 8
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Utilizing Incremental improvements to a proven concept, add redundancy to design Perform land based tests in May 2017 and move on to on water validation tests prior to shipment to Igiugig
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 17] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 17.0
+Risk Description: Structural Assembly fails some or all of validation tests
+Project Stage: Commissioning
+Project Category: Construction
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 6
+Impact (1-10) (pre-mitigation): 8
+Risk Priority (pre-mitigation): Med
+Mitigating Action: FEA analysis of structure include load factors following DNV standards and considers extreme loading conditions such as uneven bottom and detailed CAD models for subsystem interfaces validation tests to ensure structural integrity meets specs incorporate structural redundancy
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 18] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 18.0
+Risk Description: Turbine Assembly fails some or all of validation tests
+Project Stage: Commissioning
+Project Category: Construction
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 6
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Utilize CFD as design tool for performance validation, FEA analysis of turbines include load factors following DNV standards and considers extreme loading conditions, secondary design input from composite manufacturer
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 19] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 19.0
+Risk Description: Generator fails some or all of validation tests
+Project Stage: Commissioning
+Project Category: Services
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Factory Acceptance testing and laboratory testing of Generator integrated with Power electronics to ensure compatibility
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 20] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 20.0
+Risk Description: Power Electronics fails validation
+Project Stage: Commissioning
+Project Category: Construction
+Risk Owner: Project Management
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Factory acceptance tests and sequenced laboratory testing to ensure Power Electronics meets requirements before shipment
+Likelihood (1-10) (post-mitigation): 6
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 21] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 21.0
+Risk Description: SCADA system fails validation
+Project Stage: Commissioning
+Project Category: Construction
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 6
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Factory acceptance tests and sequenced laboratory testing to ensure SCADA meets requirements before shipment
+Likelihood (1-10) (post-mitigation): 6
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 22] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 22.0
+Risk Description: Power and data cables failure
+Project Stage: Construction
+Project Category: Construction
+Risk Owner: Project Management
+Likelihood (1-10) (pre-mitigation): 6
+Impact (1-10) (pre-mitigation): 8
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Utilize proven cable technology utilize secondary cable armor in high risk areas utilize redundant conductors for data and fiber optic, reduce inspections and associated wear and tear
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 8
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 23] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 23.0
+Risk Description: Mooring system failure
+Project Stage: Construction
+Project Category: Regulations
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 6
+Impact (1-10) (pre-mitigation): 10
+Risk Priority (pre-mitigation): High
+Mitigating Action: Design to DNV standards, utilize geophysical knowledge and seek industry expertise to specify mooring system components, consider most favorable failure modes
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 10
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 24] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 24.0
+Risk Description: Driveline failure
+Project Stage: Construction
+Project Category: Procurement
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 8
+Risk Priority (pre-mitigation): High
+Mitigating Action: Through validation testing, design system for increased operational tolerances and loads, choose components with long service life and minimal maintenance and alignment requirements increase modularity for replacement
+Likelihood (1-10) (post-mitigation): 6
+Impact (1-10) (post-mitigation): 8
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 25] ---
+Date Added: 2017-02-21 00:00:00
+Risk ID: 25.0
+Risk Description: Mechanical Brake Failure
+Project Stage: Construction
+Project Category: Construction
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 8
+Risk Priority (pre-mitigation): High
+Mitigating Action: Through validation testing, redundant electrical brake, Rely on third party expertise for design
+Likelihood (1-10) (post-mitigation): 6
+Impact (1-10) (post-mitigation): 6
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 26] ---
+Date Added: 2017-02-24 00:00:00
+Risk ID: 26.0
+Risk Description: Receipt of FERC Pilot license or permits are delayed and compromise deployment
+Project Stage: Operation
+Project Category: Construction
+Risk Owner: Environmental
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 10
+Risk Priority (pre-mitigation): High
+Mitigating Action: Continue regular dialogue with regulatory agencies after final pilot license and other permit applications, respond to AIRs in timely manner
+Likelihood (1-10) (post-mitigation): 6
+Impact (1-10) (post-mitigation): 10
+Risk Priority (post-mitigation): High
+
+--- [Risk Item 27] ---
+Date Added: 2017-02-24 00:00:00
+Risk ID: 27.0
+Risk Description: Component shipment to Igiugig is delayed due to schedule slip, transportation contractor issues, weather or other
+Project Stage: Operation
+Project Category: Construction
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 6
+Impact (1-10) (pre-mitigation): 8
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Track project schedule, align component validation and delivery to port of shipment with shipper schedules, ship components early if possible arrival on first barge of season (June 2018) or second (Jluy 2018) at latest
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 8
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 28] ---
+Date Added: 2017-02-24 00:00:00
+Risk ID: 28.0
+Risk Description: Device assembly difficult or requires modification in Igiugig
+Project Stage: Construction
+Project Category: Regulations
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 6
+Impact (1-10) (pre-mitigation): 8
+Risk Priority (pre-mitigation): Med
+Mitigating Action: Device assembly is difficult or requires workaround in Igiugig due to component interfaces, component damage during shipment, or other. Timing June-August 2018
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 8
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 29] ---
+Date Added: 2017-02-24 00:00:00
+Risk ID: 29.0
+Risk Description: Power System deployment/commissioning encounters unexpected difficulties
+Project Stage: Commissioning
+Project Category: Construction
+Risk Owner: Project Management
+Likelihood (1-10) (pre-mitigation): 6
+Impact (1-10) (pre-mitigation): 10
+Risk Priority (pre-mitigation): High
+Mitigating Action: prior device testing and component testing in Nikiski and elsewhere will reduce unexpected issues with deployment or commissioning. These validation steps completed by May 2018
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 10
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 30] ---
+Date Added: 2017-02-24 00:00:00
+Risk ID: 30.0
+Risk Description: Ice accumulation on or interaction with device causes power disruption, reduction, or equipment damage
+Project Stage: Operation
+Project Category: Financial
+Risk Owner: Lead engineer
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 10
+Risk Priority (pre-mitigation): High
+Mitigating Action: Collection of in river ice data for 2 years prior to deployment feeds engineering and IO&M planning, June 2017- June 2018. ON device ice monitoring allows for operational state modification if adverse conditions or interactions occur
+Likelihood (1-10) (post-mitigation): 6
+Impact (1-10) (post-mitigation): 10
+Risk Priority (post-mitigation): High
+
+--- [Risk Item 31] ---
+Date Added: 2017-02-24 00:00:00
+Risk ID: 31.0
+Risk Description: Salmon smolt data collection shows adverse reaction, or inadequate data collection does not provide regulatory agencies with adequate information to allow operation or testing during salmon smolt outmigration
+Project Stage: Operation
+Project Category: Quality
+Risk Owner: Environmental
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 8
+Risk Priority (pre-mitigation): High
+Mitigating Action: Develop rigorous fish monitoring plan in budget period 2. Consults with state and federal agencies regularly to ensure study plan and instrumentation provides adequate information for decision making, operate device only under continuous monitoring during smolt outmigration
+Likelihood (1-10) (post-mitigation): 6
+Impact (1-10) (post-mitigation): 8
+Risk Priority (post-mitigation): Med
+
+--- [Risk Item 32] ---
+Date Added: 2017-02-24 00:00:00
+Risk ID: 32.0
+Risk Description: Device removal complicated by technological or environmental factors
+Project Stage: Decommissioning
+Project Category: Decommissioning
+Risk Owner: Project Management
+Likelihood (1-10) (pre-mitigation): 6
+Impact (1-10) (pre-mitigation): 10
+Risk Priority (pre-mitigation): High
+Mitigating Action: Buoyancy system includes redundant and isolated retrieval mechanisms, pre testing In Nikiski to reduce risk of retrieval issues arising
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 10
+Risk Priority (post-mitigation): High
+
+--- [Risk Item 33] ---
+Date Added: 2017-02-24 00:00:00
+Risk ID: 33.0
+Risk Description: Higher cost for maintenance and logistical support required for final design and operations plan, including training and personnel requirements, external equipment and spares.
+Project Stage: Operation
+Project Category: Financial
+Risk Owner: Project Management
+Likelihood (1-10) (pre-mitigation): 8
+Impact (1-10) (pre-mitigation): 8
+Risk Priority (pre-mitigation): High
+Mitigating Action: Developing system requirements will be critical for determining technical scope for operations and maintenance technical support; involve local resources and include 3rd party input to accurately ascertain feasibility of proposed systems for logistical and technical requirements in remote environment. Develop trained leads during project who will be responsible for operating the systems after the project.
+Likelihood (1-10) (post-mitigation): 4
+Impact (1-10) (post-mitigation): 4
+Risk Priority (post-mitigation): Low
